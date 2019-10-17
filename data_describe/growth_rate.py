@@ -4,7 +4,9 @@ Created on Tue Oct 15 09:54:04 2019
 
 @author: lizi
 """
-
+"""
+计算同比增长率和环比增长率
+"""
 import pandas as pd
 import numpy as np
 from dateutil.relativedelta import relativedelta
